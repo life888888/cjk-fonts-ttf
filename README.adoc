@@ -45,7 +45,7 @@ Take the font NotoSansCJK as an example, the language xx will contain the follow
 * NotoSansCJKxx-Italic.ttf
 * NotoSansCJKxx-BoldItalic.ttf
 
-EX: xx 是 'tc'
+EX: xx is 'tc'
 
 Take the font NotoSansCJK as an example, the language tc will contain the following 4 ttf files.
   
