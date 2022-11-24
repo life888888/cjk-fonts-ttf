@@ -123,6 +123,45 @@ NotoSansCJK-KR.zip
   └ NotoSansCJKkr-Regular.ttf
 ----
 
+==== notosans-cjk-ttf
+
+[cols="1,1,1,1,1"]
+|===
+| Language / Styles | Regular | Italic | Bold | Bold Italic
+
+|SC (Simplified Chinese)
+|{download-root}/NotoSansCJKsc-Regular.ttf[NotoSansCJKsc-Regular.ttf]
+|{download-root}/NotoSansCJKsc-Italic.ttf[NotoSansCJKsc-Italic.ttf]
+|{download-root}/NotoSansCJKsc-Bold.ttf[NotoSansCJKsc-Bold.ttf]
+|{download-root}/NotoSansCJKsc-BoldItalic.ttf[NotoSansCJKsc-BoldItalic.ttf]
+
+
+|TC (Traditional Chinese)
+|{download-root}/NotoSansCJKtc-Regular.ttf[NotoSansCJKtc-Regular.ttf]
+|{download-root}/NotoSansCJKtc-Italic.ttf[NotoSansCJKtc-Italic.ttf]
+|{download-root}/NotoSansCJKtc-Bold.ttf[NotoSansCJKtc-Bold.ttf]
+|{download-root}/NotoSansCJKtc-BoldItalic.ttf[NotoSansCJKtc-BoldItalic.ttf]
+
+|HK (Hong Kong)
+|{download-root}/NotoSansCJKhk-Regular.ttf[NotoSansCJKhk-Regular.ttf]
+|{download-root}/NotoSansCJKhk-Italic.ttf[NotoSansCJKhk-Italic.ttf]
+|{download-root}/NotoSansCJKhk-Bold.ttf[NotoSansCJKhk-Bold.ttf]
+|{download-root}/NotoSansCJKhk-BoldItalic.ttf[NotoSansCJKhk-BoldItalic.ttf]
+
+
+|JP (Japanese)
+|{download-root}/NotoSansCJKjp-Regular.ttf[NotoSansCJKjp-Regular.ttf]
+|{download-root}/NotoSansCJKjp-Italic.ttf[NotoSansCJKjp-Italic.ttf]
+|{download-root}/NotoSansCJKjp-Bold.ttf[NotoSansCJKjp-Bold.ttf]
+|{download-root}/NotoSansCJKjp-BoldItalic.ttf[NotoSansCJKjp-BoldItalic.ttf]
+
+|KR (Korean)
+|{download-root}/NotoSansCJKkr-Regular.ttf[NotoSansCJKkr-Regular.ttf]
+|{download-root}/NotoSansCJKkr-Italic.ttf[NotoSansCJKkr-Italic.ttf]
+|{download-root}/NotoSansCJKkr-Bold.ttf[NotoSansCJKkr-Bold.ttf]
+|{download-root}/NotoSansCJKkr-BoldItalic.ttf[NotoSansCJKkr-BoldItalic.ttf]
+
+|=== 
 
 === notosansmono-cjk
 * {download-root}/NotoSansMonoCJK-SC.zip[NotoSansMonoCJK-SC.zip]
@@ -135,7 +174,45 @@ NotoSansCJK-KR.zip
 
 * {download-root}/NotoSansMonoCJK-KR.zip[NotoSansMonoCJK-KR.zip]
 
+==== notosansmono-cjk-ttf
 
+[cols="1,1,1,1,1"]
+|===
+| Language / Styles | Regular | Italic | Bold | Bold Italic
+
+|SC (Simplified Chinese)
+|{download-root}/NotoSansMonoCJKsc-Regular.ttf[NotoSansMonoCJKsc-Regular.ttf]
+|{download-root}/NotoSansMonoCJKsc-Italic.ttf[NotoSansMonoCJKsc-Italic.ttf]
+|{download-root}/NotoSansMonoCJKsc-Bold.ttf[NotoSansMonoCJKsc-Bold.ttf]
+|{download-root}/NotoSansMonoCJKsc-BoldItalic.ttf[NotoSansMonoCJKsc-BoldItalic.ttf]
+
+
+|TC (Traditional Chinese)
+|{download-root}/NotoSansMonoCJKtc-Regular.ttf[NotoSansMonoCJKtc-Regular.ttf]
+|{download-root}/NotoSansMonoCJKtc-Italic.ttf[NotoSansMonoCJKtc-Italic.ttf]
+|{download-root}/NotoSansMonoCJKtc-Bold.ttf[NotoSansMonoCJKtc-Bold.ttf]
+|{download-root}/NotoSansMonoCJKtc-BoldItalic.ttf[NotoSansMonoCJKtc-BoldItalic.ttf]
+
+|HK (Hong Kong)
+|{download-root}/NotoSansMonoCJKhk-Regular.ttf[NotoSansMonoCJKhk-Regular.ttf]
+|{download-root}/NotoSansMonoCJKhk-Italic.ttf[NotoSansMonoCJKhk-Italic.ttf]
+|{download-root}/NotoSansMonoCJKhk-Bold.ttf[NotoSansMonoCJKhk-Bold.ttf]
+|{download-root}/NotoSansMonoCJKhk-BoldItalic.ttf[NotoSansMonoCJKhk-BoldItalic.ttf]
+
+
+|JP (Japanese)
+|{download-root}/NotoSansMonoCJKjp-Regular.ttf[NotoSansMonoCJKjp-Regular.ttf]
+|{download-root}/NotoSansMonoCJKjp-Italic.ttf[NotoSansMonoCJKjp-Italic.ttf]
+|{download-root}/NotoSansMonoCJKjp-Bold.ttf[NotoSansMonoCJKjp-Bold.ttf]
+|{download-root}/NotoSansMonoCJKjp-BoldItalic.ttf[NotoSansMonoCJKjp-BoldItalic.ttf]
+
+|KR (Korean)
+|{download-root}/NotoSansMonoCJKkr-Regular.ttf[NotoSansMonoCJKkr-Regular.ttf]
+|{download-root}/NotoSansMonoCJKkr-Italic.ttf[NotoSansMonoCJKkr-Italic.ttf]
+|{download-root}/NotoSansMonoCJKkr-Bold.ttf[NotoSansMonoCJKkr-Bold.ttf]
+|{download-root}/NotoSansMonoCJKkr-BoldItalic.ttf[NotoSansMonoCJKkr-BoldItalic.ttf]
+
+|=== 
 
 === notoserif-cjk
 * {download-root}/NotoSerifCJK-SC.zip[NotoSerifCJK-SC.zip]
@@ -147,6 +224,47 @@ NotoSansCJK-KR.zip
 * {download-root}/NotoSerifCJK-JP.zip[NotoSerifCJK-JP.zip]
 
 * {download-root}/NotoSerifCJK-KR.zip[NotoSerifCJK-KR.zip]
+
+
+==== notoserif-cjk-ttf
+
+[cols="1,1,1,1,1"]
+|===
+| Language / Styles | Regular | Italic | Bold | Bold Italic
+
+|SC (Simplified Chinese)
+|{download-root}/NotoSerifCJKsc-Regular.ttf[NotoSerifCJKsc-Regular.ttf]
+|{download-root}/NotoSerifCJKsc-Italic.ttf[NotoSerifCJKsc-Italic.ttf]
+|{download-root}/NotoSerifCJKsc-Bold.ttf[NotoSerifCJKsc-Bold.ttf]
+|{download-root}/NotoSerifCJKsc-BoldItalic.ttf[NotoSerifCJKsc-BoldItalic.ttf]
+
+
+|TC (Traditional Chinese)
+|{download-root}/NotoSerifCJKtc-Regular.ttf[NotoSerifCJKtc-Regular.ttf]
+|{download-root}/NotoSerifCJKtc-Italic.ttf[NotoSerifCJKtc-Italic.ttf]
+|{download-root}/NotoSerifCJKtc-Bold.ttf[NotoSerifCJKtc-Bold.ttf]
+|{download-root}/NotoSerifCJKtc-BoldItalic.ttf[NotoSerifCJKtc-BoldItalic.ttf]
+
+|HK (Hong Kong)
+|{download-root}/NotoSerifCJKhk-Regular.ttf[NotoSerifCJKhk-Regular.ttf]
+|{download-root}/NotoSerifCJKhk-Italic.ttf[NotoSerifCJKhk-Italic.ttf]
+|{download-root}/NotoSerifCJKhk-Bold.ttf[NotoSerifCJKhk-Bold.ttf]
+|{download-root}/NotoSerifCJKhk-BoldItalic.ttf[NotoSerifCJKhk-BoldItalic.ttf]
+
+
+|JP (Japanese)
+|{download-root}/NotoSerifCJKjp-Regular.ttf[NotoSerifCJKjp-Regular.ttf]
+|{download-root}/NotoSerifCJKjp-Italic.ttf[NotoSerifCJKjp-Italic.ttf]
+|{download-root}/NotoSerifCJKjp-Bold.ttf[NotoSerifCJKjp-Bold.ttf]
+|{download-root}/NotoSerifCJKjp-BoldItalic.ttf[NotoSerifCJKjp-BoldItalic.ttf]
+
+|KR (Korean)
+|{download-root}/NotoSerifCJKkr-Regular.ttf[NotoSerifCJKkr-Regular.ttf]
+|{download-root}/NotoSerifCJKkr-Italic.ttf[NotoSerifCJKkr-Italic.ttf]
+|{download-root}/NotoSerifCJKkr-Bold.ttf[NotoSerifCJKkr-Bold.ttf]
+|{download-root}/NotoSerifCJKkr-BoldItalic.ttf[NotoSerifCJKkr-BoldItalic.ttf]
+
+|=== 
 
 == Copyright
 
