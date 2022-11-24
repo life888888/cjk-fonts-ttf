@@ -1,0 +1,323 @@
+= cjk-fonts-ttf
+:experimental:
+ifdef::env-github[]
+:toc:
+:toc-placement: preamble
+endif::[]
+ifndef::env-github[]
+:toc:
+:toc-placement: left
+endif::[]
+:imagesdir: images
+:cfk-fonts-ttf-version: 0.1.0
+:download-root: https://github.com/life888888/cjk-fonts-ttf/releases/download/v{cfk-fonts-ttf-version}
+life888888
+
+
+CJK Fonts TTF provides CJK fonts of four font styles (Regular, Bold, Italic, BoldItalic) required by CJK languages (Chinese, Japanese, Korean) PDF.
+
+
+== Overview
+General CJK fonts only provide Regaulr and Bold fonts, but lack Italic and BoldItalic fonts.
+
+This project uses Noto Sans CJK, Noto Sans Mono CJK, Noto Serif CJK three fonts as source files to complement Italic, BoldItalic fonts.
+
+== Download Fonts
+
+The following three fonts are provided: Noto Sans CJK, Noto Sans Mono CJK, Noto Serif CJK. Please select the file to download according to your language or region.
+
+Languages/Areas:
+
+* HK (Hong Kong)
+* JP (Japanese)
+* KR (Korean)
+* SC (Simplified Chinese)
+* TC (Traditional Chinese)
+
+Each zip file contains CJK TTF font files of four font styles (Regular, Bold, Italic, BoldItalic).
+
+TTF Naming conventions here: (xx is lowercase of Languages/Areas)
+
+Take the font NotoSansCJK as an example, the language xx will contain the following 4 ttf files.
+  
+* NotoSansCJKxx-Regular.ttf
+* NotoSansCJKxx-Bold.ttf  
+* NotoSansCJKxx-Italic.ttf
+* NotoSansCJKxx-BoldItalic.ttf
+
+EX: xx 是 'tc'
+
+Take the font NotoSansCJK as an example, the language tc will contain the following 4 ttf files.
+  
+* NotoSansCJKtc-Regular.ttf
+* NotoSansCJKtc-Bold.ttf  
+* NotoSansCJKtc-Italic.ttf
+* NotoSansCJKtc-BoldItalic.ttf
+
+
+=== notosans-cjk
+* {download-root}/NotoSansCJK-SC.zip[NotoSansCJK-SC.zip]
+
+* {download-root}/NotoSansCJK-TC.zip[NotoSansCJK-TC.zip]
+
+* {download-root}/NotoSansCJK-HK.zip[NotoSansCJK-HK.zip]
+
+* {download-root}/NotoSansCJK-JP.zip[NotoSansCJK-JP.zip]
+
+* {download-root}/NotoSansCJK-KR.zip[NotoSansCJK-KR.zip]
+
+
+[source,bash]
+----
+NotoSansCJK-SC.zip
+  ├ LICENSE
+  ├ NotoSansCJKsc-BoldItalic.ttf
+  ├ NotoSansCJKsc-Bold.ttf
+  ├ NotoSansCJKsc-Italic.ttf
+  └ NotoSansCJKsc-Regular.ttf
+----
+
+
+[source,bash]
+----
+NotoSansCJK-TC.zip
+    ├ LICENSE
+    ├ NotoSansCJKtc-BoldItalic.ttf
+    ├ NotoSansCJKtc-Bold.ttf
+    ├ NotoSansCJKtc-Italic.ttf
+    └ NotoSansCJKtc-Regular.ttf
+----
+
+
+
+[source,bash]
+----
+NotoSansCJK-HK.zip
+  ├ LICENSE
+  ├ NotoSansCJKhk-BoldItalic.ttf
+  ├ NotoSansCJKhk-Bold.ttf
+  ├ NotoSansCJKhk-Italic.ttf
+  └ NotoSansCJKhk-Regular.ttf
+----
+
+
+
+[source,bash]
+----
+NotoSansCJK-JP.zip
+  ├ LICENSE
+  ├ NotoSansCJKjp-BoldItalic.ttf
+  ├ NotoSansCJKjp-Bold.ttf
+  ├ NotoSansCJKjp-Italic.ttf
+  └ NotoSansCJKjp-Regular.ttf
+----
+
+
+[source,bash]
+----
+NotoSansCJK-KR.zip
+  ├ LICENSE
+  ├ NotoSansCJKkr-BoldItalic.ttf
+  ├ NotoSansCJKkr-Bold.ttf
+  ├ NotoSansCJKkr-Italic.ttf
+  └ NotoSansCJKkr-Regular.ttf
+----
+
+
+=== notosansmono-cjk
+* {download-root}/NotoSansMonoCJK-SC.zip[NotoSansMonoCJK-SC.zip]
+
+* {download-root}/NotoSansMonoCJK-TC.zip[NotoSansMonoCJK-TC.zip]
+
+* {download-root}/NotoSansMonoCJK-HK.zip[NotoSansMonoCJK-HK.zip]
+
+* {download-root}/NotoSansMonoCJK-JP.zip[NotoSansMonoCJK-JP.zip]
+
+* {download-root}/NotoSansMonoCJK-KR.zip[NotoSansMonoCJK-KR.zip]
+
+
+
+=== notoserif-cjk
+* {download-root}/NotoSerifCJK-SC.zip[NotoSerifCJK-SC.zip]
+
+* {download-root}/NotoSerifCJK-TC.zip[NotoSerifCJK-TC.zip]
+
+* {download-root}/NotoSerifCJK-HK.zip[NotoSerifCJK-HK.zip]
+
+* {download-root}/NotoSerifCJK-JP.zip[NotoSerifCJK-JP.zip]
+
+* {download-root}/NotoSerifCJK-KR.zip[NotoSerifCJK-KR.zip]
+
+== Copyright
+
+Copyright (C) 2022 life888888. and the cjk-fonts-ttf Project.
+
+=== Fonts License
+
+Free use of this project fonts is granted under the terms of the SIL Open Font License.
+
+* This Projec Fonts License: cjk-fonts-ttf fonts - **SIL Open Font License.**
+* Google Fonts Noto-CJK: **SIL Open Font License.** Repo: https://github.com/googlefonts/noto-cjk
+** Noto Sans CJK
+** Noto Sans Mono CJK
+** Noto Serif CJK
+
+=== Code License
+
+Free use of this project software is granted under the terms of the **MIT License**.
+
+
+=== Third Party Tools Scripts License
+
+* convert_italic.pe : MIT License - Copyright (c) 2015 Rei
+
+https://github.com/chloerei/asciidoctor-pdf-cjk-kai_gen_gothic/blob/master/bin/convert_italic.pe
+
+
+* cjk-multi-fix.py :  the new BSD license. - Copyright 2017 Hin-Tak Leung
+
+https://github.com/HinTak/freetype-py/blob/fontval-diag/examples/cjk-multi-fix.py
+
+
+== Contributing
+
+You can re-generate ttf files, please refer to the following settings:
+
+=== Requirements
+* OS: Ubuntu 20.04 or Other Linux
+
+* Python3
+ (Ubuntu 20.04 default pre-installed)
+
+* FontForge
+
+[source,bash]
+----
+$ sudo apt install fontforge
+$ sudo apt install python3-fontforge
+----
+ 
+* Freetype Python bindings for Python 3 (python3-freetype)
+
+[source,bash]
+----
+$ sudo apt install python3-freetype
+----
+
+
+* Rename or move /usr/share/fontforge/Adobe-Identity-0.cidmap to others.(cjk-multi-fix.py required to doing this)
+
+[source,bash]
+----
+$sudo mv /usr/share/fontforge/Adobe-Identity-0.cidmap /usr/share/fontforge/Adobe-Identity-0.cidmap.bak
+----
+
+=== Build Step
+
+Download this project Source Code.
+
+
+.Unzip Project and enter the folder
+[source,bash]
+----
+$ unzip cjk-fonts-ttf.zip
+
+$ cd cjk-fonts-ttf
+----
+
+
+.Edit build-fonts-all.sh
+[source,bash]
+----
+# Noto Font CJK
+export BUILD_FONT_FS_SANS=1
+export BUILD_FONT_FS_SANSMONO=1
+export BUILD_FONT_FS_SERIF=1
+
+# Languages
+export BUILD_FONT_LANG_SC=0
+export BUILD_FONT_LANG_TC=1
+export BUILD_FONT_LANG_HK=0
+export BUILD_FONT_LANG_JP=0
+export BUILD_FONT_LANG_KR=0
+----
+
+
+You can set the font you want to create to 1 , for example
+
+* BUILD_FONT_FS_SANS=1
+* BUILD_FONT_FS_SANSMONO=1
+* BUILD_FONT_FS_SERIF=1
+
+You can set the language to be created to 1, for example, you only wanted to create Traditional Chinese **BUILD_FONT_LANG_TC=1**, and the others are set to **0**
+
+Modify build-fonts-all.sh , you can save it after completion.
+
+.Execute build fonts
+[source,bash]
+----
+$ ./build-fonts-all.sh
+----
+
+=== Result Fles
+
+
+==== Zip Files
+
+After the execution is complete, you can go to the releases directory to view
+
+* NotoSansCJK-TC.zip , 
+* NotoSansMonoCJK-TC.zip, 
+* NotoSerifCJK-TC.zip 
+
+The file has been created, indicating that the execution was successful.
+
+==== Unpacking Files
+
+The following files can be found in the releases/Sans subdirectory:
+
+[source,bash]
+----
+└── TC
+    ├── LICENSE
+    ├── NotoSansCJKtc-BoldItalic.ttf
+    ├── NotoSansCJKtc-Bold.ttf
+    ├── NotoSansCJKtc-Italic.ttf
+    └── NotoSansCJKtc-Regular.ttf
+----
+
+
+The following files can be found in the releases/SansMono subdirectory:
+
+[source,bash]
+----
+└── TC
+    ├── LICENSE
+    ├── NotoSansMonoCJKtc-BoldItalic.ttf
+    ├── NotoSansMonoCJKtc-Bold.ttf
+    ├── NotoSansMonoCJKtc-Italic.ttf
+    └── NotoSansMonoCJKtc-Regular.ttf
+----
+
+
+The following files can be found in the releases/Serif subdirectory:
+
+[source,bash]
+----
+└── TC
+    ├── LICENSE
+    ├── NotoSerifCJKtc-BoldItalic.ttf
+    ├── NotoSerifCJKtc-Bold.ttf
+    ├── NotoSerifCJKtc-Italic.ttf
+    └── NotoSerifCJKtc-Regular.ttf
+----
+
+=== build step concept
+Rough conversion steps for build-font-fs-lang.sh:
+
+* 1. Download Google Fonts (zip).
+* 2. Unzip the zip to get Noto XXX CJK otf (Regular & Bold)
+* 3. Convert OTF files to TTF files using cjk-multi-fix.py.
+* 4. Use convert_italic.pe to convert Regaulr and Bold fonts to Italic and BoldItalic fonts.
+* 5. Use ttf-rename.py to reset TTF's font fullname, family name, etc.
+

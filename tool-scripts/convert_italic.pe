@@ -1,0 +1,7 @@
+#!/usr/bin/env fontforge
+
+Open($1)
+SelectWorthOutputting()
+Skew(13)
+Generate($1:r + "-Italic.ttf")
+
